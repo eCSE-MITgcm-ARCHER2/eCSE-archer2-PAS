@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/493606876.svg)](https://zenodo.org/badge/latestdoi/493606876)
+
 # eCSE-archer2-PAS
 Contains scripts as they are June 2022, end of eCSE02-06 project.
 
